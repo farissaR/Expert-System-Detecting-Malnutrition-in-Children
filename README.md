@@ -11,7 +11,7 @@ Bontang City public is in the acute-chronic category with a stunted prevalence o
 data in 2017.
 
 Child nutrition monitoring is carried out through the Kartu Menuju Sehat
-(KMS) and done once a month at the Posyandu, but some very important growth
+(KMS) and done once a month at the Posyandu, but some of a very important growth
 indicators in recognizing child nutrition problems are not listed in the Kartu Menuju
 Sehat. This study aims to design an expert system that can detect the condition of
 malnutrition using the Certainty Factors method that works using expert
